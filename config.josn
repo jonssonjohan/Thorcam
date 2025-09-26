@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "exposureTime_us": 800000,
+        "power_uv": "80",
+        "led_mode": "trig",
+        "DisplayImage": 2,
+        "auto_scale": true,
+        "hot_pixel_correction": false
+    }
+}
